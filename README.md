@@ -20,6 +20,8 @@ Write here a short paragraph explaining what your program does.
 For example:
 > This program updates a employee's record (name, email, mobileNo, role, and address) in the `employee` table based on the employee ID entered by the user.  
 > It uses JDBC to connect to a MySQL database and demonstrates secure query execution using `PreparedStatement`.
+> This repository contains a fully explained Java program that performs CRUD operations using JDBC (Java Database Connectivity) with a MySQL database.
+It’s designed for students and beginners who want to understand how to connect Java applications to MySQL, update records securely using PreparedStatement, and follow best practices for clean and safe database access.
 
 ## ✨ Features
 - Connects Java with MySQL database  
